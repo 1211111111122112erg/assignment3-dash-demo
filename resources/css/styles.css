@@ -29,13 +29,13 @@ h2 {
 a {
     color: #fff;
     font-size: 1.2em;
-    transition: background-color .3s, color .3s;
+    transition: background-color 3.9s, color 3.3s;
     text-decoration: none;
     text-transform: uppercase; 
 }
 
 a:hover {
-    color: #aaa;
+    color: #00b;
 }
 
 ul {
@@ -173,6 +173,7 @@ footer nav li {
     list-style-type: none;
     font-size: .75em;
     padding: 1em;
+    opacity: 0.4;
 }
 
 @media screen and (max-width: 30rem) {
@@ -182,3 +183,10 @@ footer nav li {
         flex-direction: column;
     }    
 }
+
+
+
+
+
+
+
